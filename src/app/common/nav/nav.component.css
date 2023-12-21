@@ -1,0 +1,42 @@
+#right-side {
+    float : right;
+    margin-right: 15rem;
+}
+* {
+    box-sizing: border-box;
+}
+.banner {
+    padding-top: 0.5rem;
+    background-color: rgb(11, 11, 11);
+    align-items: center;
+justify-content: center;
+}
+.navbar-brand {
+    margin-left: 15rem;
+}
+.flex {
+    display: flex;
+    flex-direction: row;
+     gap : 2rem ;
+}
+.float-right {
+    float:  right;
+}
+.flex-detials{
+    display: flex;
+}
+.detail-item {
+    text-decoration:none;
+    color: rgb(231, 231, 16);
+}
+.flex-detials {
+    list-style: none;
+    gap : 2rem;
+    margin-right: 2.5rem;
+    text-decoration:none;
+}
+.inline-flex {
+    display: inline-flex;
+    list-style: none;
+    margin-right: 0.5rem;
+}
