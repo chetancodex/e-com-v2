@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 .banner {
-    padding-top: 0.5rem;
+    padding-top: 1rem;
     background-color: rgb(11, 11, 11);
     align-items: center;
 justify-content: center;
