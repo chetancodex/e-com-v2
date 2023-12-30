@@ -8,6 +8,8 @@ import { NavComponent } from './common/nav/nav.component';
 import { ProductsComponent } from './products/products.component';
 import { ProfileComponent } from './profile/profile.component';
 import { SupportComponent } from './common/support/support.component';
+import { LocatorComponent } from './common/locator/locator.component';
+import { AboutComponent } from './common/about/about.component';
 
 @NgModule({
   declarations: [
@@ -17,6 +19,8 @@ import { SupportComponent } from './common/support/support.component';
     ProductsComponent,
     ProfileComponent,
     SupportComponent,
+    LocatorComponent,
+    AboutComponent,
   ],
   imports: [
     BrowserModule,
