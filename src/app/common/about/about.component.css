@@ -1,3 +1,8 @@
 .list-item {
     font-size: 0.8rem;
+    color:bisque;
+    font-weight: 500;
+}
+#grad {
+    background-image: linear-gradient(900deg, #aa00ffa5, #6a00ffba);
 }
