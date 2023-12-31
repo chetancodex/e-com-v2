@@ -10,6 +10,8 @@ import { ProfileComponent } from './profile/profile.component';
 import { SupportComponent } from './common/support/support.component';
 import { LocatorComponent } from './common/locator/locator.component';
 import { AboutComponent } from './common/about/about.component';
+import { SigninComponent } from './signin/signin.component';
+import { RegisterComponent } from './register/register.component';
 
 @NgModule({
   declarations: [
@@ -21,6 +23,8 @@ import { AboutComponent } from './common/about/about.component';
     SupportComponent,
     LocatorComponent,
     AboutComponent,
+    SigninComponent,
+    RegisterComponent,
   ],
   imports: [
     BrowserModule,
